@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhumihar2000
-- 👀 I’m interested in data science.
+- 👀 I’m interested in data science and data analysis field.
 - 🌱 I’m currently learning python, machine learning and many more thing related to my interest for doing my best in data science project.
 - 💞️ I'm looking to collaborate with MNC and also with startsup.
 
